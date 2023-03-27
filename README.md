@@ -1,2 +1,2 @@
 # Adventure
-Demo website using parallex effect
+Demo website using parallex effect.
